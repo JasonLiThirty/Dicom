@@ -1,0 +1,7 @@
+﻿  DicomUtils.cpp
+d:\learning\dicom\dcmtk_sample\c++_dicom_module\c++_dicom_module\dicomutils.cpp(2): fatal error C1083: Cannot open include file: 'boost/format.hpp': No such file or directory
+  DicomProcessor.cpp
+d:\learning\dicom\dcmtk_sample\c++_dicom_module\c++_dicom_module\dicomprocessor.h(4): fatal error C1083: Cannot open include file: 'dcmtk/config/osconfig.h': No such file or directory
+  DicomFactory.cpp
+d:\learning\dicom\dcmtk_sample\c++_dicom_module\c++_dicom_module\dicomprocessor.h(4): fatal error C1083: Cannot open include file: 'dcmtk/config/osconfig.h': No such file or directory
+  Generating Code...

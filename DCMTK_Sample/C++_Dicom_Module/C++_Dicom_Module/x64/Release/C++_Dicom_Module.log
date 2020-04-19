@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  C++_Dicom_Module.cpp
+  DicomFactory.cpp
+  DicomProcessor.cpp
+DicomProcessor.cpp(284): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned long', possible loss of data
+  DicomUtils.cpp
+  stdafx.cpp
+  dllmain.cpp
+     Creating library ..\..\..\Module_Sample\C++_Dicom_Module.lib and object ..\..\..\Module_Sample\C++_Dicom_Module.exp
+  Generating code
+  All 1143 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  C++_Dicom_Module.vcxproj -> D:\214 - Advanced Technology\DICOM\Src\DCMTK_Sample\C++_Dicom_Module\C++_Dicom_Module\..\..\..\Module_Sample\C++_Dicom_Module.dll
+  C++_Dicom_Module.vcxproj -> ..\..\..\Module_Sample\C++_Dicom_Module.pdb (Full PDB)
